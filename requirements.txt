@@ -1,7 +1,4 @@
 streamlit
-numpy
-torch
-torchvision
 streamlit_drawable_canvas
 opencv-python-headless==4.5.4.60
 Pillow
