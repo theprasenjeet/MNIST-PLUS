@@ -3,7 +3,6 @@ numpy
 matplotlib
 streamlit_drawable_canvas
 opencv-python
-opencv-contrib-python
 Pillow
 crysx_nn
 torchvision
