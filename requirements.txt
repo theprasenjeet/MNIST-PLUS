@@ -1,5 +1,11 @@
 streamlit
+numpy
+matplotlib
 streamlit_drawable_canvas
 opencv-python-headless
+opencv-python
+opencv-contrib-python
 Pillow
 crysx_nn
+torchvision
+torch
