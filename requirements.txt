@@ -2,5 +2,4 @@ streamlit
 streamlit_drawable_canvas
 opencv-python-headless==4.5.4.60
 Pillow
-matplotlib
 crysx_nn
