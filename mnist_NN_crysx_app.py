@@ -33,10 +33,10 @@ realtime_update = st.sidebar.checkbox("Update in realtime", True)
 
 # @st.cache
 def make_sidebar():
-    # st.sidebar.markdown("## [CrysX-NN](https://github.com/manassharma07/crysx_nn)")
+    # st.sidebar.markdown("## [CrysX-NN](https://github.com/theprasenjeet/crysx_nn)")
     st.sidebar.write('\n\n ## Neural Network Library Used')
     # st.sidebar.image('logo_crysx_nn.png')
-    st.sidebar.caption('https://github.com/manassharma07/crysx_nn')
+    st.sidebar.caption('https://github.com/theprasenjeet/crysx_nn')
     st.sidebar.write('## Neural Network Architecture Used')
     st.sidebar.write('1. **Inputs**: Flattened 28x28=784')
     st.sidebar.write('2. **Hidden layer** of size **256** with **ReLU** activation Function')
@@ -195,7 +195,7 @@ if canvas_result.image_data is not None:
 
 
 
-st.write('### Code used for training the neural network: [Jupyter Notebook](https://github.com/manassharma07/crysx_nn/blob/main/examples/NN_MNIST_orig_from_raw_png_crysx.ipynb)')    
+st.write('### Code used for training the neural network: [Jupyter Notebook](https://github.com/theprasenjeet/crysx_nn/blob/main/examples/NN_MNIST_orig_from_raw_png_crysx.ipynb)')    
 # st.code('''
     # from crysx_nn import mnist_utils as mu
     # import numpy as np
